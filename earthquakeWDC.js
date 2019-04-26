@@ -2,7 +2,7 @@
     var myConnector = tableau.makeConnector();
 
     myConnector.getSchema = function (schemaCallback) {
-    tableau.log("Hello WDC!");
+        tableau.log("Hello WDC!");
     };
     
 
