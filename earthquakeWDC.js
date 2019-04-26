@@ -1,8 +1,9 @@
 (function () {
     var myConnector = tableau.makeConnector();
 
-    myConnector.getSchema = function (schemaCallback) {
-        document.write("Hello World!");
+   function myFunction() {
+      document.write("Hello World");
+}
     };
     
 
